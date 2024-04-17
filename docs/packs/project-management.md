@@ -1,6 +1,4 @@
-# Sobre
-
-![logo](assets/logo.svg)
+# Gestão de projetos
 
 > Documentação do KEMIS ERP.
 
