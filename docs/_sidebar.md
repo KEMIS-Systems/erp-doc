@@ -11,6 +11,7 @@
     - [Gestão de documentos](packs/documents-management.md)
     - [Gestão de projetos](packs/project-management.md)
     - [Gestao de resíduos](packs/waste_management.md)
+    - [Manutenção de equipamentos](packs/equipment-maintenance.md)
 
 ---
 
