@@ -10,6 +10,7 @@
     - [Aluguel de equipamentos](packs/rental.md)
     - [Gestão de documentos](packs/documents-management.md)
     - [Gestão de projetos](packs/project-management.md)
+    - [Gestao de resíduos](packs/waste_management.md)
 
 ---
 
@@ -51,7 +52,7 @@
     - [Certificações](modules/equipment-management/certifications.md)
     - [Grupos](modules/equipment-management/groups.md)
     - [Modelos](modules/equipment-management/models.md)
-    - [Equipments](modules/equipment-management/equipments.md)
+    - [Equipamentos](modules/equipment-management/equipments.md)
     - [Gestão de certificação](modules/equipment-management/certification-management.md)
     - [Gerenciador de arquivos](modules/equipment-management/file-manager)
     - [Relatórios](modules/equipment-management/reports.md)

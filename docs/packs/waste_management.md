@@ -10,9 +10,8 @@ O KEMIS ERP é uma plataforma voltada para gestão de empresas, seja pequena, m�
     * [Departmentos](modules/administrative/departments.md)
     * [Fornecedores](modules/administrative/vendors.md)
     * [Configurações](modules/administrative/settings.md)
-* Gestão de projetos
-    * [Demandas](modules/project-management/demands.md)
-    * [Tarefas](modules/project-management/tasks.md)
-    * [Categorias](modules/project-management/categories.md)
-    * [Configurações](modules/project-management/settings.md)
-    * [Dashboard](modules/project-management/dashboard.md)
+* Gestão de resíduos
+    * [Resíduos](modules/waste-management/wastes.md)
+    * [Fontes geradoras](modules/waste-management/generating-sources.md)
+    * [Manifestos](modules/waste-management/manifestos.md)
+    * [Dashboard](modules/waste-management/dashboard.md)

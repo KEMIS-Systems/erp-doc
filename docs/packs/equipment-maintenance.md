@@ -18,3 +18,15 @@ O KEMIS ERP é uma plataforma voltada para gestão de empresas, seja pequena, m�
     * [Gestão de certificação](modules/equipment-management/certification-management.md)
     * [Gerenciador de arquivos](modules/equipment-management/file-manager)
     * [Relatórios](modules/equipment-management/reports.md)
+* Almoxarifado
+    * [Grupos](modules/warehouse/groups.md)
+    * [Unidades de medida](modules/warehouse/measurement-units.md)
+    * [Suprimentos](modules/warehouse/supplies.md)
+    * [Tipos de inventários](modules/warehouse/inventory-types.md)
+    * [Inventários](modules/warehouse/inventory.md)
+    * [Estoque](modules/warehouse/stock.md)
+* Manutenção de equipamentos
+    * [Steps](modules/equipment-maintenance/steps.md)
+    * [Planejamento](modules/equipment-maintenance/planning.md)
+    * [Controles](modules/equipment-maintenance/controls.md)
+    * [Atualização de horímetro](modules/equipment-maintenance/hour-meter-update.md)
