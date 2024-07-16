@@ -32,3 +32,4 @@ O KEMIS ERP é uma plataforma voltada para gestão de empresas, seja pequena, m�
     * [Tipos de exames](modules/occupational-health/examinations-types.md)
     * [Agendamentos](modules/occupational-health/schedules.md)
     * [Matriz de exames](modules/occupational-health/examinations-matrices.md)
+    * [Atividades críticas](modules/occupational-health/critical-activities.md)
