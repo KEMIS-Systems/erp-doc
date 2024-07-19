@@ -4,22 +4,22 @@
 
 #### Formulário
 
-| Campo                 | Obrigatório   | Descrição |
-| --------------------- |:-------------:|---------- |
-| Grupo de acesso       | **Sim**       | Grupo que pertencerá o usuário |
-| Nome       | **Sim**       | Nome completo do usuário |
-| Email       | **Sim**       | Email do usuário |
-| Departamento       | Não       | Departamento que pertence o usuário |
+| Campo           | Obrigatório | Descrição                           |
+| --------------- | :---------: | ----------------------------------- |
+| Grupo de acesso |   **Sim**   | Grupo que pertencerá o usuário      |
+| Nome            |   **Sim**   | Nome completo do usuário            |
+| Email           |   **Sim**   | Email do usuário                    |
+| Departamento    |     Não     | Departamento que pertence o usuário |
 
 _Será gerado uma senha aleatória e enviada por email para o usuário._
 
 #### Ações
 
-| Ícone                 | Ação |
-| --------------------- |-------------|
-| ![logo](../../assets/icons/Pencil.png)      | Abre o formulário para edição do grupo de acesso |
-| ![logo](../../assets/icons/Trash.png)      | Apaga o grupo de acesso. _Somente usuários com **acesso avançado** irão visualizar esse ícone._ |
-| ![logo](../../assets/icons/Key.png)      | Gera uma chave aleatória para integração com a API. Ao clicar será aberto um formulário como o que vê na imagem abaixo.  |
+| Ícone                                  | Ação                                                                                                                    |
+| -------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| ![logo](../../assets/icons/Pencil.png) | Abre o formulário para edição do grupo de acesso                                                                        |
+| ![logo](../../assets/icons/Trash.png)  | Apaga o grupo de acesso. _Somente usuários com **acesso avançado** irão visualizar esse ícone._                         |
+| ![logo](../../assets/icons/Key.png)    | Gera uma chave aleatória para integração com a API. Ao clicar será aberto um formulário como o que vê na imagem abaixo. |
 
 ![Formulário](../../assets/screenshots/administrative.users.key.png)
 
