@@ -48,6 +48,7 @@
   - [Acidentes de trabalho](modules/qhsa/work-accidents.md)
   - [Absenteísmo](modules/qhsa/absenteeism.md)
   - [Relatórios](modules/qhsa/reports.md)
+  - [Settings](modules/qhsa/settings.md)
 
 - Gestão de equipamentos
 
