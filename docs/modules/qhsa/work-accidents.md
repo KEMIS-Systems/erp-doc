@@ -33,6 +33,15 @@
 
 #### Formulário
 
-| Campo  | Obrigatório | Descrição                 |
-| ------ | :---------: | ------------------------- |
-| Titulo |   **Sim**   | Nome de arquivo carregado |
+| Campo                | Obrigatório | Descrição                 |
+| -------------------- | :---------: | ------------------------- |
+| Funcionario          |   **Sim**   | Nome de arquivo carregado |
+| Data do acidente     |   **Sim**   | Nome de arquivo carregado |
+| Horario do acidente  |   **Sim**   | Nome de arquivo carregado |
+| Tipo do acidente     |   **Sim**   | Nome de arquivo carregado |
+| Tipo do incapacidade |   **Sim**   | Nome de arquivo carregado |
+| Parte do corpo       |   **Sim**   | Nome de arquivo carregado |
+| Agente causador      |   **Sim**   | Nome de arquivo carregado |
+| Lesao u dano         |   **Sim**   | Nome de arquivo carregado |
+| Com afastamento      |   **Sim**   | Nome de arquivo carregado |
+| Emissao CAT          |   **Sim**   | Nome de arquivo carregado |

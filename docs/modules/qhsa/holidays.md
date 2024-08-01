@@ -12,6 +12,6 @@
 
 #### Ações
 
-| Ícone                                 | Ação                                                                                        |
-| ------------------------------------- | ------------------------------------------------------------------------------------------- |
-| ![logo](../../assets/icons/Trash.png) | Apaga o Colaborador. _Somente usuários com **acesso avançado** irão visualizar esse ícone._ |
+| Ícone                                 | Ação                                                                                    |
+| ------------------------------------- | --------------------------------------------------------------------------------------- |
+| ![logo](../../assets/icons/Trash.png) | Apaga o feriado. _Somente usuários com **acesso avançado** irão visualizar esse ícone._ |

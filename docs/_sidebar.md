@@ -84,6 +84,23 @@
   - [Relatórios](modules/rental/reports.md)
 
 - Gestão de documentos
-  - [Categorias](modules/equipment-management/categories.md)
-  - [Documentos](modules/equipment-management/files.md)
-  - [Pendentes](modules/equipment-management/pendings.md)
+
+  - [Categorias](modules/dms/categories.md)
+  - [Documentos](modules/dms/files.md)
+  - [Pendentes](modules/dms/pendings.md)
+
+- Gestão de resíduos
+
+  - [Residuos](modules/waste-management/wastes)
+  - [Fontes Geradoras](modules/waste-management/generating-sources)
+  - [Manifesto](modules/waste-management/manifestos)
+  - [Dashboard](modules/waste-management/dashboard)
+
+- PPE
+
+  - [Certificados de aprovação](modules/ppe/ca.md)
+  - [Grupos](modules/ppe/groups.md)
+  - [PPE](modules/ppe/ppes.md)
+  - [Tipo de inventario](modules/ppe/inventory-types.md)
+  - [Inventario](modules/ppe/inventory.md)
+  - [Requisitos PPE](modules/ppe/ppe-requests.md)
