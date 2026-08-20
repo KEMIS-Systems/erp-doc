@@ -8,7 +8,7 @@ sidebar_position: 10
 
 A Gestão Ativa de Vencimentos monitora continuamente os treinamentos e
 exames médicos obrigatórios de cada colaborador — as mesmas exigências
-definidas pela **[Categoria funcional / Cargo](./roles.md)** e por
+definidas pela **[Categoria funcional / Cargo](./roles/index.md)** e por
 **[Atividades críticas](./critical-activities.md)** — e dispara
 notificações automáticas antes, no dia ou depois do vencimento, de acordo
 com regras configuráveis. Cada regra define o gatilho de disparo, a

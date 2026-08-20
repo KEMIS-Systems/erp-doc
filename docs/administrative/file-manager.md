@@ -11,7 +11,7 @@ contratos sociais, certidões, apólices e demais categorias cadastradas em
 **[Configurações](./settings.md)**. É a partir dela que a equipe analisa e
 decide sobre os documentos enviados, e é a situação desses documentos que
 alimenta o status de conformidade exibido na tela de
-**[Fornecedores](./vendors.md)** e os indicadores do
+**[Fornecedores](./vendors/index.md)** e os indicadores do
 **[Dashboard](./dashboard.md)**.
 
 No topo da tela, cartões de resumo mostram a quantidade de documentos em

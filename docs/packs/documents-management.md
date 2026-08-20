@@ -12,9 +12,9 @@ Plano de gestão eletrônica de documentos (DMS), para empresas que precisam cen
 
 ### Administrativo
 
-* [Grupos de acesso](../administrative/access-groups.md)
+* [Grupos de acesso](../administrative/access-groups/index.md)
 * [Usuários](../administrative/users.md)
-* [Departamentos](../administrative/departments.md)
+* [Departamentos](../administrative/departments/index.md)
 
 ### Gestão de Documentos (DMS)
 

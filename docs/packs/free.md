@@ -12,7 +12,7 @@ Plano de entrada do KEMIS ERP, indicado para empresas que estão começando a ex
 
 ### Administrativo
 
-* [Grupos de acesso](../administrative/access-groups.md)
+* [Grupos de acesso](../administrative/access-groups/index.md)
 * [Usuários](../administrative/users.md)
 
 ### Gestão de Treinamentos

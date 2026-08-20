@@ -1,14 +1,14 @@
 ---
 title: Colaboradores
 slug: /modules/human-resources/employees
-sidebar_position: 4
+sidebar_position: 1
 ---
 
 # Colaboradores
 
 Esta é a tela central de cadastro de pessoas do módulo de Recursos
 Humanos. Cada colaborador é vinculado a uma
-**[Categoria funcional / Cargo](./roles.md)**, que determina os documentos,
+**[Categoria funcional / Cargo](../roles/index.md)**, que determina os documentos,
 cursos e exames exigidos dele, e pode estar associado a um contrato de
 cliente, departamento, centro de custo e gestores. A partir do cadastro do
 colaborador é possível acompanhar arquivos, contratos, qualificações,
@@ -51,7 +51,7 @@ de contato, dados complementares e documentos.
 | Ação | Descrição |
 | --- | --- |
 | Adicionar | Abre o formulário de cadastro |
-| ![FolderOpen](/img/icons/FolderOpen.png) Ver | Abre o detalhe do colaborador, com abas de qualificações, exames médicos, arquivos, documentos, contratos, atividades críticas, escala, certificados, EPI, equipamentos, suprimentos e auditorias |
+| ![FolderOpen](/img/icons/FolderOpen.png) Ver | Abre o detalhe do colaborador, com as doze abas listadas abaixo |
 | ![Pencil](/img/icons/Pencil.png) Editar | Abre o formulário para alterar os dados do colaborador |
 | ![Trash](/img/icons/Trash.png) Apagar | Remove o colaborador. A exclusão pede confirmação antes de ser efetivada |
 | Foto | Clique na miniatura de foto abre a visualização (com opção de editar ou remover) ou o upload, se ainda não houver foto cadastrada |
@@ -72,3 +72,18 @@ nome, CPF, matrícula ou passaporte — esses campos ficam bloqueados nesse
 contexto. O cadastro ou a edição de um colaborador dispara automaticamente
 a sincronização da matriz de treinamentos e, quando parametrizado, a
 integração com o módulo Pedagógico.
+
+## Páginas desta seção
+
+- [Matriz de treinamentos](./matriz-de-treinamentos.md)
+- [Exames médicos](./exames-medicos.md)
+- [Arquivos](./arquivos.md)
+- [Documentos](./documentos.md)
+- [Contratos](./contratos.md)
+- [Atividades críticas](./atividades-criticas.md)
+- [Eventos](./eventos.md)
+- [Certificados](./certificados.md)
+- [EPI](./epi.md)
+- [Equipamentos](./equipamentos.md)
+- [Suprimentos](./suprimentos.md)
+- [Auditorias](./auditorias.md)

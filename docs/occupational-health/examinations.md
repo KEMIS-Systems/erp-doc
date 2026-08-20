@@ -12,7 +12,7 @@ aqui tem uma validade padrão (em meses), usada como referência de
 periodicidade. Este catálogo é a base para duas outras telas: é a partir
 dele que a **[Matriz de exames](./examinations-matrices.md)** define
 quais exames cada função exige, e é dele também que se escolhem os
-exames incluídos em um **[Agendamento](./schedules.md)**.
+exames incluídos em um **[Agendamento](./schedules/index.md)**.
 
 ## Formulário
 

@@ -26,7 +26,7 @@ documentos exigidos dele no **[Gerenciador de arquivos](./file-manager.md)**.
 
 Na aba Contratos fica o cadastro de **Categorias de arquivo de contrato**,
 usado para organizar os arquivos anexados na aba Arquivos de cada
-**[Contrato](./contracts.md)**.
+**[Contrato](./contracts/index.md)**.
 
 ## Formulário
 

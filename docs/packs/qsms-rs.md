@@ -12,14 +12,14 @@ Plano voltado para áreas de QSMS/RS, com foco em indicadores de segurança do t
 
 ### Administrativo
 
-* [Grupos de acesso](../administrative/access-groups.md)
+* [Grupos de acesso](../administrative/access-groups/index.md)
 * [Usuários](../administrative/users.md)
-* [Departamentos](../administrative/departments.md)
+* [Departamentos](../administrative/departments/index.md)
 
 ### Recursos Humanos
 
-* [Categorias funcionais](../human-resources/roles.md)
-* [Colaboradores](../human-resources/employees.md)
+* [Categorias funcionais](../human-resources/roles/index.md)
+* [Colaboradores](../human-resources/employees/index.md)
 
 ### QHSA
 

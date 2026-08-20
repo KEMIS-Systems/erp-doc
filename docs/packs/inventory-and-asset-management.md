@@ -12,9 +12,9 @@ Plano para controle de almoxarifado, patrimônio e EPIs, indicado para empresas 
 
 ### Administrativo
 
-* [Grupos de acesso](../administrative/access-groups.md)
+* [Grupos de acesso](../administrative/access-groups/index.md)
 * [Usuários](../administrative/users.md)
-* [Departamentos](../administrative/departments.md)
+* [Departamentos](../administrative/departments/index.md)
 
 ### Almoxarifado
 

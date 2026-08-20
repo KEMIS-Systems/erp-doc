@@ -12,10 +12,10 @@ Plano para equipes de manutenção que gerenciam o planejamento e o controle de 
 
 ### Administrativo
 
-* [Grupos de acesso](../administrative/access-groups.md)
+* [Grupos de acesso](../administrative/access-groups/index.md)
 * [Usuários](../administrative/users.md)
-* [Departamentos](../administrative/departments.md)
-* [Fornecedores](../administrative/vendors.md)
+* [Departamentos](../administrative/departments/index.md)
+* [Fornecedores](../administrative/vendors/index.md)
 * [Configurações](../administrative/settings.md)
 
 ### Gestão de Equipamentos

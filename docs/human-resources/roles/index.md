@@ -1,23 +1,24 @@
 ---
 title: Categorias funcionais / Cargos
 slug: /modules/human-resources/roles
-sidebar_position: 3
+sidebar_position: 1
 ---
 
 # Categorias funcionais / Cargos
 
 Esta tela cadastra as categorias funcionais (cargos) da empresa. Todo
-colaborador cadastrado em **[Colaboradores](./employees.md)** é vinculado a
+colaborador cadastrado em **[Colaboradores](../employees/index.md)** é vinculado a
 um cargo, e é esse vínculo que determina o que é exigido dele: quais tipos
-de arquivo deve manter válidos (associação feita aqui ou em
-**[Tipos de arquivos](./file-types.md)**, e refletida na
-**[Matriz de arquivos](./file-matrices.md)**), quais cursos compõem a matriz
+de arquivo deve manter válidos (associação feita em
+**[Tipos de arquivos](../file-types.md)**, e refletida na
+**[Matriz de arquivos](../file-matrices.md)**), quais cursos compõem a matriz
 de treinamentos do cargo e quais exames médicos ocupacionais são
 obrigatórios.
 
-Ao abrir o detalhe de um cargo, é possível consultar (em modo somente
-leitura, a partir desta tela) a matriz de treinamentos, as categorias de
-arquivo e os exames médicos associados a ele.
+Ao abrir o detalhe de um cargo, a página reúne três páginas que mostram, em
+modo somente leitura, o que está associado a ele — a matriz de
+treinamentos, as categorias de arquivo e os exames médicos — cada uma
+listada e documentada abaixo.
 
 ## Formulário
 
@@ -32,7 +33,7 @@ arquivo e os exames médicos associados a ele.
 
 | Ação | Descrição |
 | --- | --- |
-| ![FolderOpen](/img/icons/FolderOpen.png) Ver | Abre o detalhe do cargo, com as abas Matriz de treinamentos, Categorias de arquivos e Exames médicos |
+| ![FolderOpen](/img/icons/FolderOpen.png) Ver | Abre o detalhe do cargo, com as três páginas listadas abaixo |
 | ![Pencil](/img/icons/Pencil.png) Editar | Abre o formulário para alterar o cargo |
 | ![Trash](/img/icons/Trash.png) Apagar | Remove o cargo. A exclusão pede confirmação antes de ser efetivada |
 | Importar | Permite importar cargos em massa a partir de uma planilha (nome, código e CBO), com opção de baixar um modelo pronto |
@@ -47,3 +48,9 @@ exigências do cargo (treinamentos, exames e arquivos) caso alguma alteração
 recente não tenha se refletido corretamente nos colaboradores. Antes de
 cadastrar um novo cargo, o sistema verifica se o plano contratado já
 atingiu o limite de registros do módulo e bloqueia o cadastro nesse caso.
+
+## Páginas desta seção
+
+- [Matriz de treinamentos](./matriz-de-treinamentos.md)
+- [Categorias de arquivo](./categorias-de-arquivo.md)
+- [Exames médicos](./exames-medicos.md)

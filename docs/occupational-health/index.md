@@ -36,7 +36,7 @@ O módulo é formado por quatro telas que se complementam:
   quais exames do catálogo são exigidos ou recomendados, com qual
   periodicidade. É essa matriz que determina o que cada colaborador
   precisa fazer, de acordo com a função que ocupa.
-- **[Agendamentos](./schedules.md)** é onde o exame é efetivamente
+- **[Agendamentos](./schedules/index.md)** é onde o exame é efetivamente
   marcado para um colaborador: quem vai realizar, em qual clínica ou
   fornecedor, em qual data, quais exames do catálogo estão incluídos
   nesse agendamento, e o acompanhamento do status (agendado, realizado,

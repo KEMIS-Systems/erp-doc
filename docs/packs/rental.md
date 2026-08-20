@@ -12,11 +12,11 @@ Plano para empresas que alugam equipamentos para clientes externos, cobrindo a g
 
 ### Administrativo
 
-* [Grupos de acesso](../administrative/access-groups.md)
+* [Grupos de acesso](../administrative/access-groups/index.md)
 * [Usuários](../administrative/users.md)
-* [Departamentos](../administrative/departments.md)
-* [Clientes](../administrative/customers.md)
-* [Fornecedores](../administrative/vendors.md)
+* [Departamentos](../administrative/departments/index.md)
+* [Clientes](../administrative/customers/index.md)
+* [Fornecedores](../administrative/vendors/index.md)
 * [Configurações](../administrative/settings.md)
 
 ### Gestão de Equipamentos

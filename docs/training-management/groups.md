@@ -7,7 +7,7 @@ sidebar_position: 2
 # Grupos
 
 Grupos são a forma de organizar o catálogo de cursos em categorias. Cada
-curso cadastrado em **[Cursos](./courses.md)** é associado a um grupo, o que
+curso cadastrado em **[Cursos](./courses/index.md)** é associado a um grupo, o que
 facilita filtrar e localizar cursos relacionados ao mesmo tema — por
 exemplo, cursos de segurança do trabalho, cursos técnicos, ou cursos
 específicos de um cliente. Esta tela cuida apenas do cadastro dos grupos em

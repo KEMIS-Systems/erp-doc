@@ -8,8 +8,8 @@ sidebar_position: 5
 
 O Gerenciador de arquivos é a visão centralizada de todos os documentos
 enviados para todos os colaboradores — a mesma informação que aparece na
-aba "Arquivos" do cadastro individual de cada
-**[Colaborador](./employees.md)**, aqui reunida em uma única listagem
+aba **[Arquivos](./employees/arquivos.md)** do cadastro individual de cada
+**[Colaborador](./employees/index.md)**, aqui reunida em uma única listagem
 pesquisável. É aqui que se enviam documentos avulsos ou se preenchem as
 pendências geradas automaticamente pela **[Matriz de arquivos](./file-matrices.md)**
 quando um cargo passa a exigir um novo tipo de documento (ver

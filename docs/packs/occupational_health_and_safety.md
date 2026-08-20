@@ -12,19 +12,19 @@ Plano voltado para equipes de SESMT e segurança do trabalho, cobrindo o control
 
 ### Administrativo
 
-* [Grupos de acesso](../administrative/access-groups.md)
+* [Grupos de acesso](../administrative/access-groups/index.md)
 * [Usuários](../administrative/users.md)
-* [Clientes](../administrative/customers.md)
-* [Fornecedores](../administrative/vendors.md)
-* [Departamentos](../administrative/departments.md)
-* [Contratos](../administrative/contracts.md)
+* [Clientes](../administrative/customers/index.md)
+* [Fornecedores](../administrative/vendors/index.md)
+* [Departamentos](../administrative/departments/index.md)
+* [Contratos](../administrative/contracts/index.md)
 * [Configurações](../administrative/settings.md)
 
 ### Recursos Humanos
 
 * [Categorias de arquivos](../human-resources/file-types.md)
-* [Categorias funcionais](../human-resources/roles.md)
-* [Colaboradores](../human-resources/employees.md)
+* [Categorias funcionais](../human-resources/roles/index.md)
+* [Colaboradores](../human-resources/employees/index.md)
 * [Gerenciador de arquivos](../human-resources/file-manager.md)
 * [Contratação](../human-resources/hirings.md)
 * [Atividades críticas](../human-resources/critical-activities.md)
@@ -32,7 +32,7 @@ Plano voltado para equipes de SESMT e segurança do trabalho, cobrindo o control
 ### Gestão de Treinamentos
 
 * [Grupos](../training-management/groups.md)
-* [Cursos](../training-management/courses.md)
+* [Cursos](../training-management/courses/index.md)
 * [Matriz de treinamentos](../training-management/trainings-matrices.md)
 * [Treinamentos](../training-management/trainings.md)
 * [Treinamentos externos](../training-management/external-trainings.md)
@@ -42,4 +42,4 @@ Plano voltado para equipes de SESMT e segurança do trabalho, cobrindo o control
 * [Tipos de exames](../occupational-health/types.md)
 * [Matriz de exames](../occupational-health/examinations-matrices.md)
 * [Exames](../occupational-health/examinations.md)
-* [Agendamentos](../occupational-health/schedules.md)
+* [Agendamentos](../occupational-health/schedules/index.md)

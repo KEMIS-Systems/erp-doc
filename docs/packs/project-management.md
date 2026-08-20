@@ -12,10 +12,10 @@ Plano para equipes que organizam o trabalho em demandas e tarefas, com categoriz
 
 ### Administrativo
 
-* [Grupos de acesso](../administrative/access-groups.md)
+* [Grupos de acesso](../administrative/access-groups/index.md)
 * [Usuários](../administrative/users.md)
-* [Departamentos](../administrative/departments.md)
-* [Fornecedores](../administrative/vendors.md)
+* [Departamentos](../administrative/departments/index.md)
+* [Fornecedores](../administrative/vendors/index.md)
 * [Configurações](../administrative/settings.md)
 
 ### Gestão de Projetos

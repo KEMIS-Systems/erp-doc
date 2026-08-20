@@ -1,15 +1,16 @@
 ---
 title: Clientes
 slug: /modules/administrative/customers
-sidebar_position: 4
+sidebar_position: 1
 ---
 
 # Clientes
 
 Esta tela cadastra os clientes da empresa — o lado com quem ela firma
-**[Contratos](./contracts.md)**. O cadastro é dividido em duas abas: dados
-principais (razão social, nome fantasia, CNPJ, contato) e dados de contato
-(endereço e observações).
+**[Contratos](../contracts/index.md)**. O cadastro é dividido em duas abas
+do formulário: dados principais (razão social, nome fantasia, CNPJ,
+contato) e dados de contato (endereço e observações). A página de detalhe
+de cada cliente reúne mais três páginas, listadas abaixo.
 
 Ao informar o CNPJ, o sistema consulta a Receita Federal automaticamente e
 preenche razão social, nome fantasia, telefone e endereço; ao informar o
@@ -41,7 +42,7 @@ automaticamente.
 | Ação | Descrição |
 | --- | --- |
 | Adicionar | Abre o formulário de cadastro de um novo cliente |
-| ![FolderOpen](/img/icons/FolderOpen.png) Ver | Abre o detalhe do cliente, com abas de contatos, arquivos e arquivos de contrato |
+| ![FolderOpen](/img/icons/FolderOpen.png) Ver | Abre o detalhe do cliente, com as páginas listadas abaixo |
 | ![Pencil](/img/icons/Pencil.png) Editar | Abre o formulário para alterar os dados do cliente |
 | ![Trash](/img/icons/Trash.png) Apagar | Remove o cliente |
 | Gerar relatório (PDF) | Gera um PDF com a listagem de clientes |
@@ -49,6 +50,12 @@ automaticamente.
 
 Clientes e fornecedores compartilham a mesma tabela de cadastro-base
 (razão social, documento, endereço); o que diferencia um registro criado
-aqui de um registro criado em **[Fornecedores](./vendors.md)** é a tela pela
-qual ele foi cadastrado, não o CNPJ/CPF em si — em tese, o mesmo documento
-pode existir como cliente e, separadamente, como fornecedor.
+aqui de um registro criado em **[Fornecedores](../vendors/index.md)** é a
+tela pela qual ele foi cadastrado, não o CNPJ/CPF em si — em tese, o mesmo
+documento pode existir como cliente e, separadamente, como fornecedor.
+
+## Páginas desta seção
+
+- [Contatos](./contatos.md)
+- [Arquivos de contrato](./arquivos-de-contrato.md)
+- [Arquivos](./arquivos.md)

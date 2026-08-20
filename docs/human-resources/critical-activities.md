@@ -11,7 +11,7 @@ específica para serem realizadas — por exemplo, trabalho em altura ou
 espaço confinado. Cada atividade crítica cadastrada aqui define quais
 cursos e quais exames médicos ocupacionais são obrigatórios para que um
 colaborador possa exercê-la. Essa exigência se soma à que já vem do
-**[Cargo](./roles.md)** do colaborador, reforçando a matriz de treinamentos
+**[Cargo](./roles/index.md)** do colaborador, reforçando a matriz de treinamentos
 e de exames médicos sempre que a atividade crítica é atribuída a alguém no
 cadastro do colaborador.
 
@@ -54,6 +54,7 @@ Ao vincular um curso ou um exame médico a uma atividade crítica, o sistema
 sincroniza automaticamente a matriz de treinamentos e a matriz de exames
 médicos dos colaboradores que exercem aquela atividade, refletindo a nova
 exigência. Uma atividade crítica só passa a valer para um colaborador
-específico quando atribuída a ele no cadastro do
-**[Colaborador](./employees.md)**; o cadastro feito nesta tela define
+específico quando atribuída a ele na aba
+**[Atividades críticas](./employees/atividades-criticas.md)** do cadastro do
+colaborador; o cadastro feito nesta tela define
 apenas o que a atividade exige, de forma geral.

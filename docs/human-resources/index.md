@@ -13,9 +13,9 @@ cada função exige, se esses documentos estão em dia, como um candidato é
 contratado e mobilizado para um contrato, e como a empresa é avisada quando
 algo está prestes a vencer.
 
-O ponto de partida é o cadastro de **[Colaboradores](./employees.md)**, com
+O ponto de partida é o cadastro de **[Colaboradores](./employees/index.md)**, com
 dados pessoais, de contato, contratuais e documentais de cada pessoa. Cada
-colaborador está vinculado a uma **[Categoria funcional / Cargo](./roles.md)**,
+colaborador está vinculado a uma **[Categoria funcional / Cargo](./roles/index.md)**,
 que por sua vez determina quais documentos, cursos e exames médicos são
 exigidos dele. Essa exigência documental é definida em
 **[Tipos de arquivos](./file-types.md)** (o catálogo de categorias de
@@ -36,7 +36,7 @@ Quando a empresa precisa contratar alguém, o processo passa por
 preencher seus próprios dados e enviar os documentos exigidos pela função,
 antes de se tornar efetivamente um colaborador. Já quando um colaborador já
 existente precisa ser alocado para atender a um contrato específico de
-cliente, isso é feito em **[Mobilizações de força de trabalho](./workforce-mobilizations.md)**,
+cliente, isso é feito em **[Mobilizações de força de trabalho](./workforce-mobilizations/index.md)**,
 que acompanha o envio e a aprovação dos documentos, treinamentos e exames
 exigidos por aquele contrato.
 
@@ -55,12 +55,12 @@ acompanhar a saúde do quadro de pessoal em um único lugar.
 ## Páginas deste módulo
 
 - [Tipos de arquivos](./file-types.md)
-- [Categorias funcionais / Cargos](./roles.md)
-- [Colaboradores](./employees.md)
+- [Categorias funcionais / Cargos](./roles/index.md)
+- [Colaboradores](./employees/index.md)
 - [Gerenciador de arquivos](./file-manager.md)
 - [Matriz de arquivos](./file-matrices.md)
 - [Atividades críticas](./critical-activities.md)
 - [Contratações](./hirings.md)
-- [Mobilizações de força de trabalho](./workforce-mobilizations.md)
+- [Mobilizações de força de trabalho](./workforce-mobilizations/index.md)
 - [Gestão de vencimentos](./expiration-management.md)
 - [Dashboard](./dashboard.md)

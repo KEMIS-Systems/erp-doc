@@ -7,7 +7,7 @@ sidebar_position: 3
 # Usuários
 
 Esta tela cadastra as pessoas que acessam o KEMIS ERP com login e senha.
-Cada usuário é vinculado a um **[Grupo de acesso](./access-groups.md)**, que
+Cada usuário é vinculado a um **[Grupo de acesso](./access-groups/index.md)**, que
 define o que ele pode ver e fazer no sistema, e opcionalmente a um
 departamento e a uma ou mais empresas do cliente. A listagem mostra, além
 dos dados de cadastro, se o usuário está online no momento (com data de

@@ -7,13 +7,13 @@ sidebar_position: 8
 # Contratações
 
 A tela de Contratações administra o processo de admissão de um candidato
-antes que ele se torne efetivamente um **[Colaborador](./employees.md)**.
+antes que ele se torne efetivamente um **[Colaborador](./employees/index.md)**.
 Ao cadastrar uma contratação, o sistema gera um link exclusivo para um
 portal externo, onde o próprio candidato preenche seus dados pessoais, de
 endereço e envia os documentos exigidos pela categoria funcional (cargo)
 para a qual está sendo contratado — os mesmos tipos de arquivo definidos em
 **[Tipos de arquivos](./file-types.md)** e associados ao cargo em
-**[Categorias funcionais / Cargos](./roles.md)**.
+**[Categorias funcionais / Cargos](./roles/index.md)**.
 
 O link pode ser copiado ou enviado diretamente por WhatsApp para o
 candidato a partir da listagem.

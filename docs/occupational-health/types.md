@@ -9,7 +9,7 @@ sidebar_position: 2
 Esta tela cadastra os tipos usados para classificar cada agendamento de
 exame — por exemplo, admissional, periódico, demissional ou mudança de
 função. O cadastro é simples, com apenas um campo de texto livre, e serve
-de base para a tela de **[Agendamentos](./schedules.md)**, onde cada
+de base para a tela de **[Agendamentos](./schedules/index.md)**, onde cada
 agendamento precisa indicar um desses tipos.
 
 ## Formulário

@@ -11,7 +11,7 @@ colaborador — por exemplo, "CNH", "ASO", "Certificado de curso" ou "Contrato
 assinado". Cada tipo de arquivo cadastrado aqui fica disponível para ser
 associado a uma ou mais categorias funcionais (cargos), o que é feito na
 aba "Categoria funcional" desta mesma tela ou diretamente em
-**[Categorias funcionais / Cargos](./roles.md)**. Essa associação é o que
+**[Categorias funcionais / Cargos](./roles/index.md)**. Essa associação é o que
 alimenta a **[Matriz de arquivos](./file-matrices.md)**: ao vincular um
 tipo de arquivo a um cargo, o sistema passa a cobrar esse documento de todo
 colaborador que exerça aquele cargo, gerando automaticamente uma pendência

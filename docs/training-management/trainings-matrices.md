@@ -72,7 +72,7 @@ vencer; cursos marcados como apenas **recomendados** nunca aparecem como
 vencidos — para eles, o sistema só indica se o colaborador já concluiu ou
 ainda não. Quando a validade não é customizada por função ("Alterado?"
 desligado), a função herda a validade padrão definida no cadastro do
-curso, em [Cursos](./courses.md).
+curso, em [Cursos](./courses/index.md).
 
 A situação de cada colaborador (em dia, vencendo em 30/60/90 dias ou
 vencido) é recalculada automaticamente sempre que um treinamento interno

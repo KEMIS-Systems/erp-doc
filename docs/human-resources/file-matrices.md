@@ -8,7 +8,7 @@ sidebar_position: 6
 
 A Matriz de arquivos mostra, em forma de grade, quais tipos de documento
 (ver **[Tipos de arquivos](./file-types.md)**) cada
-**[Categoria funcional / Cargo](./roles.md)** exige, e o quanto essa
+**[Categoria funcional / Cargo](./roles/index.md)** exige, e o quanto essa
 exigência está sendo cumprida pelos colaboradores de cada cargo. É a
 ferramenta de acompanhamento da conformidade documental por cargo e,
 opcionalmente, por contrato — enquanto a associação individual entre cargo

@@ -18,7 +18,7 @@ As páginas do módulo se encaixam assim:
 
 - **[Grupos](./groups.md)** organizam o catálogo em categorias, para
   facilitar localizar cursos relacionados entre si.
-- **[Cursos](./courses.md)** é o catálogo propriamente dito: cada curso tem
+- **[Cursos](./courses/index.md)** é o catálogo propriamente dito: cada curso tem
   carga horária, validade (em meses), conteúdo programático, instrutores e,
   quando aplicável, integrações com plataformas externas (como o Moodle) e
   vínculo com a plataforma Pedagogo.

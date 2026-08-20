@@ -9,7 +9,7 @@ sidebar_position: 11
 O Dashboard reúne, em painéis visuais, os principais indicadores do módulo
 de Recursos Humanos: composição do quadro de colaboradores, conformidade
 das matrizes de treinamento e de exames médicos (as mesmas exigências
-definidas em **[Categorias funcionais / Cargos](./roles.md)** e
+definidas em **[Categorias funcionais / Cargos](./roles/index.md)** e
 **[Atividades críticas](./critical-activities.md)**), situação dos
 documentos controlados no **[Gerenciador de arquivos](./file-manager.md)**,
 agendamento de exames, relatórios semanais de pendências e análises por
