@@ -22,6 +22,7 @@ digital dele.
 | Enviar diretamente | Gera o certificado e já o envia para assinatura digital do colaborador |
 | Salvar sem enviar e editar | Gera o documento de assinatura digital e abre o editor, sem enviar ainda |
 | Abrir documento | Abre em outra aba o documento de assinatura digital já criado para o certificado |
+| Assinatura manual (ícone de caneta) | Ativa ou desativa a assinatura manual armazenada para o treinamento, refletindo na coluna "Assinado". Só aparece quando o colaborador já tem uma assinatura manual cadastrada e o certificado ainda não entrou no fluxo de assinatura digital |
 
 O cadastro, a edição e a exclusão do treinamento — assim como filtros,
 importação em lote e integração com o Moodle — ficam em
