@@ -1,18 +1,27 @@
-# Gestão de equipamentos
+---
+title: Gestão de projetos
+slug: /packs/project-management
+sidebar_position: 8
+---
 
-> Documentação do KEMIS ERP.
+# Gestão de projetos
 
-O KEMIS ERP é uma plataforma voltada para gestão de empresas, seja pequena, média ou de grande porte.
+Plano para equipes que organizam o trabalho em demandas e tarefas, com categorização e um dashboard de acompanhamento, além do suporte administrativo básico para usuários, departamentos e fornecedores.
 
-* Administrativo
-    * [Grupos de acesso](modules/administrative/access-groups.md)
-    * [Usuários](modules/administrative/users.md)
-    * [Departmentos](modules/administrative/departments.md)
-    * [Fornecedores](modules/administrative/vendors.md)
-    * [Configurações](modules/administrative/settings.md)
-* Gestão de projetos
-    * [Demandas](modules/project-management/demands.md)
-    * [Tarefas](modules/project-management/tasks.md)
-    * [Categorias](modules/project-management/categories.md)
-    * [Configurações](modules/project-management/settings.md)
-    * [Dashboard](modules/project-management/dashboard.md)
+## Páginas incluídas
+
+### Administrativo
+
+* [Grupos de acesso](../administrative/access-groups.md)
+* [Usuários](../administrative/users.md)
+* [Departamentos](../administrative/departments.md)
+* [Fornecedores](../administrative/vendors.md)
+* [Configurações](../administrative/settings.md)
+
+### Gestão de Projetos
+
+* **Demandas** _(manual deste módulo ainda não publicado)_
+* **Tarefas** _(manual deste módulo ainda não publicado)_
+* **Categorias** _(manual deste módulo ainda não publicado)_
+* **Configurações** _(manual deste módulo ainda não publicado)_
+* **Dashboard** _(manual deste módulo ainda não publicado)_

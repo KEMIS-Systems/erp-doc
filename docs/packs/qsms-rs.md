@@ -1,18 +1,29 @@
+---
+title: "QSMS-RS: Qualidade, Segurança, Meio Ambiente e Saúde – Responsabilidade Social"
+slug: /packs/qsms-rs
+sidebar_position: 3
+---
+
 # QSMS-RS: Qualidade, Segurança, Meio Ambiente e Saúde – Responsabilidade Social
 
-> Documentação do KEMIS ERP.
+Plano voltado para áreas de QSMS/RS, com foco em indicadores de segurança do trabalho — feriados, acidentes de trabalho, absenteísmo e relatórios estatísticos —, complementado pelo controle básico de colaboradores e categorias funcionais.
 
-O KEMIS ERP é uma plataforma voltada para gestão de empresas, seja pequena, média ou de grande porte.
+## Páginas incluídas
 
-* Administrativo
-    * [Grupos de acesso](modules/administrative/access-groups.md)
-    * [Usuários](modules/administrative/users.md)
-    * [Departmentos](modules/administrative/departments.md)
-* Recursos humanos
-    * [Categorias funcionais](modules/human-resources/roles)
-    * [Colaboradores](modules/human-resources/employees)
-* QHSMS
-    * [Feriados](modules/qhsa/holidays.md)
-    * [Acidentes de trabalho](modules/qhsa/work-accidents.md)
-    * [Controle Estatístico](modules/qhsa/absenteeism.md)
-    * [Relatórios](modules/qhsa/reports.md)
+### Administrativo
+
+* [Grupos de acesso](../administrative/access-groups.md)
+* [Usuários](../administrative/users.md)
+* [Departamentos](../administrative/departments.md)
+
+### Recursos Humanos
+
+* [Categorias funcionais](../human-resources/roles.md)
+* [Colaboradores](../human-resources/employees.md)
+
+### QHSA
+
+* **Feriados** _(manual deste módulo ainda não publicado)_
+* **Acidentes de trabalho** _(manual deste módulo ainda não publicado)_
+* **Controle estatístico (absenteísmo)** _(manual deste módulo ainda não publicado)_
+* **Relatórios** _(manual deste módulo ainda não publicado)_

@@ -1,40 +1,53 @@
+---
+title: Aluguel de equipamentos
+slug: /packs/rental
+sidebar_position: 6
+---
+
 # Aluguel de equipamentos
 
-> Documentação do KEMIS ERP.
+Plano para empresas que alugam equipamentos para clientes externos, cobrindo a gestão dos equipamentos, o controle de estoque próprio e do cliente, e todo o fluxo de aluguel — checklists, ordens de serviço, expedição e medições.
 
-O KEMIS ERP é uma plataforma voltada para gestão de empresas, seja pequena, média ou de grande porte.
+## Páginas incluídas
 
-* Administrativo
-    * [Grupos de acesso](modules/administrative/access-groups.md)
-    * [Usuários](modules/administrative/users.md)
-    * [Departmentos](modules/administrative/departments.md)
-    * [Clientes](modules/administrative/customers.md)
-    * [Fornecedores](modules/administrative/vendors.md)
-    * [Configurações](modules/administrative/settings.md)
-* Gestão de equipamentos
-    * [Certificações](modules/equipment-management/certifications.md)
-    * [Grupos](modules/equipment-management/groups.md)
-    * [Modelos](modules/equipment-management/models.md)
-    * [Equipamentos](modules/equipment-management/equipments.md)
-    * [Gestão de certificação](modules/equipment-management/certification-management.md)
-    * [Gerenciador de arquivos](modules/equipment-management/file-manager)
-    * [Relatórios](modules/equipment-management/reports.md)
-* Almoxarifado
-    * [Grupos](modules/warehouse/groups.md)
-    * [Unidade de medidas](modules/warehouse/measurement-units.md)
-    * [Suprimentos](modules/warehouse/supplies.md)
-    * [Tipos de inventários](modules/warehouse/inventory-types.md)
-    * [Inventários](modules/warehouse/inventory.md)
-    * [Estoque](modules/warehouse/stock.md)
-    * [Tipos de inventários de clientes](modules/warehouse/customer-inventory-types.md)
-    * [Inventários de clientes](modules/warehouse/customer-inventory.md)
-    * [Estoque de cliente](modules/warehouse/customer-stock)
-* Aluguel de equipamentos
-    * [Equipamentos externos](modules/rental/external-equipments.md)
-    * [Checklists](modules/rental/checklist.md)
-    * [Ordens de serviço](modules/rental/service-orders.md)
-    * [Expedição](modules/rental/expeditions.md)
-    * [ECR](modules/rental/ecr.md)
-    * [Monitoramento](modules/rental/monitoring.md)
-    * [Medições](modules/rental/measurements.md)
-    * [Relatórios](modules/rental/reports.md)
+### Administrativo
+
+* [Grupos de acesso](../administrative/access-groups.md)
+* [Usuários](../administrative/users.md)
+* [Departamentos](../administrative/departments.md)
+* [Clientes](../administrative/customers.md)
+* [Fornecedores](../administrative/vendors.md)
+* [Configurações](../administrative/settings.md)
+
+### Gestão de Equipamentos
+
+* **Certificações** _(manual deste módulo ainda não publicado)_
+* **Grupos** _(manual deste módulo ainda não publicado)_
+* **Modelos** _(manual deste módulo ainda não publicado)_
+* **Equipamentos** _(manual deste módulo ainda não publicado)_
+* **Gestão de certificação** _(manual deste módulo ainda não publicado)_
+* **Gerenciador de arquivos** _(manual deste módulo ainda não publicado)_
+* **Relatórios** _(manual deste módulo ainda não publicado)_
+
+### Almoxarifado
+
+* **Grupos** _(manual deste módulo ainda não publicado)_
+* **Unidades de medida** _(manual deste módulo ainda não publicado)_
+* **Suprimentos** _(manual deste módulo ainda não publicado)_
+* **Tipos de inventários** _(manual deste módulo ainda não publicado)_
+* **Inventários** _(manual deste módulo ainda não publicado)_
+* **Estoque** _(manual deste módulo ainda não publicado)_
+* **Tipos de inventários de clientes** _(manual deste módulo ainda não publicado)_
+* **Inventários de clientes** _(manual deste módulo ainda não publicado)_
+* **Estoque de cliente** _(manual deste módulo ainda não publicado)_
+
+### Aluguel de Equipamentos
+
+* **Equipamentos externos** _(manual deste módulo ainda não publicado)_
+* **Checklists** _(manual deste módulo ainda não publicado)_
+* **Ordens de serviço** _(manual deste módulo ainda não publicado)_
+* **Expedição** _(manual deste módulo ainda não publicado)_
+* **ECR** _(manual deste módulo ainda não publicado)_
+* **Monitoramento** _(manual deste módulo ainda não publicado)_
+* **Medições** _(manual deste módulo ainda não publicado)_
+* **Relatórios** _(manual deste módulo ainda não publicado)_

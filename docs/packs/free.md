@@ -1,14 +1,20 @@
+---
+title: Free
+slug: /packs/free
+sidebar_position: 1
+---
+
 # Free
 
-> Documentação do KEMIS ERP.
+Plano de entrada do KEMIS ERP, indicado para empresas que estão começando a experimentar a plataforma. Dá acesso ao controle básico de usuários e permissões, além do módulo de treinamentos externos.
 
-O KEMIS ERP é uma plataforma voltada para gestão de empresas, seja pequena, média ou de grande porte.
+## Páginas incluídas
 
-## Páginas
+### Administrativo
 
+* [Grupos de acesso](../administrative/access-groups.md)
+* [Usuários](../administrative/users.md)
 
-* Administrativo
-    * [Grupos de acesso](modules/administrative/access-groups.md)
-    * [Usuários](modules/administrative/users.md)
-* Gestão de treinamentos
-    * [Treinamentos externos](modules/training-management/external-training.md)
+### Gestão de Treinamentos
+
+* [Treinamentos externos](../training-management/external-trainings.md)

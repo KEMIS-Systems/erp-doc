@@ -1,32 +1,45 @@
-# Gestão de equipamentos
+---
+title: Manutenção de equipamentos
+slug: /packs/equipment-maintenance
+sidebar_position: 10
+---
 
-> Documentação do KEMIS ERP.
+# Manutenção de equipamentos
 
-O KEMIS ERP é uma plataforma voltada para gestão de empresas, seja pequena, média ou de grande porte.
+Plano para equipes de manutenção que gerenciam o planejamento e o controle de manutenções de equipamentos, incluindo a atualização de horímetro, com o apoio dos módulos de gestão de equipamentos e almoxarifado.
 
-* Administrativo
-    * [Grupos de acesso](modules/administrative/access-groups.md)
-    * [Usuários](modules/administrative/users.md)
-    * [Departmentos](modules/administrative/departments.md)
-    * [Fornecedores](modules/administrative/vendors.md)
-    * [Configurações](modules/administrative/settings.md)
-* Gestão de equipamentos
-    * [Certificações](modules/equipment-management/certifications.md)
-    * [Grupos](modules/equipment-management/groups.md)
-    * [Modelos](modules/equipment-management/models.md)
-    * [Equipamentos](modules/equipment-management/equipments.md)
-    * [Gestão de certificação](modules/equipment-management/certification-management.md)
-    * [Gerenciador de arquivos](modules/equipment-management/file-manager)
-    * [Relatórios](modules/equipment-management/reports.md)
-* Almoxarifado
-    * [Grupos](modules/warehouse/groups.md)
-    * [Unidades de medida](modules/warehouse/measurement-units.md)
-    * [Suprimentos](modules/warehouse/supplies.md)
-    * [Tipos de inventários](modules/warehouse/inventory-types.md)
-    * [Inventários](modules/warehouse/inventory.md)
-    * [Estoque](modules/warehouse/stock.md)
-* Manutenção de equipamentos
-    * [Steps](modules/equipment-maintenance/steps.md)
-    * [Planejamento](modules/equipment-maintenance/planning.md)
-    * [Controles](modules/equipment-maintenance/controls.md)
-    * [Atualização de horímetro](modules/equipment-maintenance/hour-meter-update.md)
+## Páginas incluídas
+
+### Administrativo
+
+* [Grupos de acesso](../administrative/access-groups.md)
+* [Usuários](../administrative/users.md)
+* [Departamentos](../administrative/departments.md)
+* [Fornecedores](../administrative/vendors.md)
+* [Configurações](../administrative/settings.md)
+
+### Gestão de Equipamentos
+
+* **Certificações** _(manual deste módulo ainda não publicado)_
+* **Grupos** _(manual deste módulo ainda não publicado)_
+* **Modelos** _(manual deste módulo ainda não publicado)_
+* **Equipamentos** _(manual deste módulo ainda não publicado)_
+* **Gestão de certificação** _(manual deste módulo ainda não publicado)_
+* **Gerenciador de arquivos** _(manual deste módulo ainda não publicado)_
+* **Relatórios** _(manual deste módulo ainda não publicado)_
+
+### Almoxarifado
+
+* **Grupos** _(manual deste módulo ainda não publicado)_
+* **Unidades de medida** _(manual deste módulo ainda não publicado)_
+* **Suprimentos** _(manual deste módulo ainda não publicado)_
+* **Tipos de inventários** _(manual deste módulo ainda não publicado)_
+* **Inventários** _(manual deste módulo ainda não publicado)_
+* **Estoque** _(manual deste módulo ainda não publicado)_
+
+### Manutenção de Equipamentos
+
+* **Steps** _(manual deste módulo ainda não publicado)_
+* **Planejamento** _(manual deste módulo ainda não publicado)_
+* **Controles** _(manual deste módulo ainda não publicado)_
+* **Atualização de horímetro** _(manual deste módulo ainda não publicado)_

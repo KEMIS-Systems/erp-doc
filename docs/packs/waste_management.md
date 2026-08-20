@@ -1,17 +1,26 @@
-# Gestão de equipamentos
+---
+title: Gestão de resíduos
+slug: /packs/waste_management
+sidebar_position: 9
+---
 
-> Documentação do KEMIS ERP.
+# Gestão de resíduos
 
-O KEMIS ERP é uma plataforma voltada para gestão de empresas, seja pequena, média ou de grande porte.
+Plano para empresas que precisam controlar a geração de resíduos, suas fontes geradoras e manifestos, com um dashboard de acompanhamento, além do suporte administrativo básico.
 
-* Administrativo
-    * [Grupos de acesso](modules/administrative/access-groups.md)
-    * [Usuários](modules/administrative/users.md)
-    * [Departmentos](modules/administrative/departments.md)
-    * [Fornecedores](modules/administrative/vendors.md)
-    * [Configurações](modules/administrative/settings.md)
-* Gestão de resíduos
-    * [Resíduos](modules/waste-management/wastes.md)
-    * [Fontes geradoras](modules/waste-management/generating-sources.md)
-    * [Manifestos](modules/waste-management/manifestos.md)
-    * [Dashboard](modules/waste-management/dashboard.md)
+## Páginas incluídas
+
+### Administrativo
+
+* [Grupos de acesso](../administrative/access-groups.md)
+* [Usuários](../administrative/users.md)
+* [Departamentos](../administrative/departments.md)
+* [Fornecedores](../administrative/vendors.md)
+* [Configurações](../administrative/settings.md)
+
+### Gestão de Resíduos
+
+* **Resíduos** _(manual deste módulo ainda não publicado)_
+* **Fontes geradoras** _(manual deste módulo ainda não publicado)_
+* **Manifestos** _(manual deste módulo ainda não publicado)_
+* **Dashboard** _(manual deste módulo ainda não publicado)_
