@@ -1,20 +1,29 @@
+---
+title: Gestão de equipamentos
+slug: /packs/equipment-management
+sidebar_position: 4
+---
+
 # Gestão de equipamentos
 
-> Documentação do KEMIS ERP.
+Plano para empresas que precisam controlar o ciclo de vida de equipamentos próprios — cadastro, modelos, grupos e certificações —, com o suporte administrativo básico para gerenciar usuários, departamentos e fornecedores.
 
-O KEMIS ERP é uma plataforma voltada para gestão de empresas, seja pequena, média ou de grande porte.
+## Páginas incluídas
 
-* Administrativo
-    * [Grupos de acesso](modules/administrative/access-groups.md)
-    * [Usuários](modules/administrative/users.md)
-    * [Departmentos](modules/administrative/departments.md)
-    * [Fornecedores](modules/administrative/vendors.md)
-    * [Configurações](modules/administrative/settings.md)
-* Gestão de equipamentos
-    * [Certificações](modules/equipment-management/certifications.md)
-    * [Grupos](modules/equipment-management/groups.md)
-    * [Modelos](modules/equipment-management/models.md)
-    * [Equipamentos](modules/equipment-management/equipments.md)
-    * [Gestão de certificação](modules/equipment-management/certification-management.md)
-    * [Gerenciador de arquivos](modules/equipment-management/file-manager)
-    * [Relatórios](modules/equipment-management/reports.md)
+### Administrativo
+
+* [Grupos de acesso](../administrative/access-groups/index.md)
+* [Usuários](../administrative/users.md)
+* [Departamentos](../administrative/departments/index.md)
+* [Fornecedores](../administrative/vendors/index.md)
+* [Configurações](../administrative/settings.md)
+
+### Gestão de Equipamentos
+
+* **Certificações** _(manual deste módulo ainda não publicado)_
+* **Grupos** _(manual deste módulo ainda não publicado)_
+* **Modelos** _(manual deste módulo ainda não publicado)_
+* **Equipamentos** _(manual deste módulo ainda não publicado)_
+* **Gestão de certificação** _(manual deste módulo ainda não publicado)_
+* **Gerenciador de arquivos** _(manual deste módulo ainda não publicado)_
+* **Relatórios** _(manual deste módulo ainda não publicado)_

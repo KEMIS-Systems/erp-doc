@@ -1,0 +1,9 @@
+{
+  "label": "Pacotes comerciais",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "slug": "/packs",
+    "description": "Cada pacote comercial do KEMIS ERP inclui um subconjunto de módulos e páginas. Veja abaixo o que está incluído em cada um."
+  }
+}

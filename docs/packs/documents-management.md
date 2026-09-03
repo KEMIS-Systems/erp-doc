@@ -1,14 +1,23 @@
+---
+title: Gestão de documentos
+slug: /packs/documents-management
+sidebar_position: 7
+---
+
 # Gestão de documentos
 
-> Documentação do KEMIS ERP.
+Plano de gestão eletrônica de documentos (DMS), para empresas que precisam centralizar, categorizar e controlar pendências de documentos corporativos, com o suporte administrativo básico de usuários e departamentos.
 
-O KEMIS ERP é uma plataforma voltada para gestão de empresas, seja pequena, média ou de grande porte.
+## Páginas incluídas
 
-* Administrativo
-    * [Grupos de acesso](modules/administrative/access-groups.md)
-    * [Usuários](modules/administrative/users.md)
-    * [Departmentos](modules/administrative/departments.md)
-* Gestão de documentos
-    * [Categorias](modules/equipment-management/categories.md)
-    * [Documentos](modules/equipment-management/files.md)
-    * [Pendentes](modules/equipment-management/pendings.md)
+### Administrativo
+
+* [Grupos de acesso](../administrative/access-groups/index.md)
+* [Usuários](../administrative/users.md)
+* [Departamentos](../administrative/departments/index.md)
+
+### Gestão de Documentos (DMS)
+
+* **Categorias** _(manual deste módulo ainda não publicado)_
+* **Documentos** _(manual deste módulo ainda não publicado)_
+* **Pendentes** _(manual deste módulo ainda não publicado)_
