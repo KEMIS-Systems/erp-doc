@@ -1,7 +1,7 @@
 ---
 title: Assinaturas
-slug: /supplier-portal/assinaturas
-sidebar_position: 7
+slug: /assinaturas
+sidebar_position: 8
 ---
 
 # Assinaturas

@@ -1,7 +1,7 @@
 ---
 title: Usuários
-slug: /supplier-portal/usuarios
-sidebar_position: 8
+slug: /usuarios
+sidebar_position: 9
 ---
 
 # Usuários

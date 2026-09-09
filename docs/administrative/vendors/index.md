@@ -26,7 +26,11 @@ dados na Receita Federal, e ao informar o CEP busca o endereço.
 
 O próprio fornecedor acompanha e resolve essas pendências (envio de
 documentos, resposta a formulários, assinaturas) fazendo login em uma
-aplicação separada, o **[Portal do Fornecedor](../../supplier-portal/index.md)**.
+aplicação separada, o **[Portal do Fornecedor](/supplier-portal)**,
+hospedada em **https://supplier.kemis.app/**. Vale orientar todo
+fornecedor recém-cadastrado que ainda não tem conta no portal a se
+registrar — o cadastro é gratuito, em
+**https://supplier.kemis.app/register**.
 
 ## Formulário
 

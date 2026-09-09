@@ -1,7 +1,7 @@
 ---
 title: Perfil
-slug: /supplier-portal/perfil
-sidebar_position: 9
+slug: /perfil
+sidebar_position: 10
 ---
 
 # Perfil

@@ -1,13 +1,13 @@
 ---
 title: Formulários de avaliação
-slug: /supplier-portal/formularios
-sidebar_position: 6
+slug: /formularios
+sidebar_position: 7
 ---
 
 # Formulários de avaliação
 
 Lista os questionários de qualificação/homologação criados pelos clientes
-em **[Formulários de Avaliação de Fornecedores](../administrative/evaluation-forms/index.md)**
+em **[Formulários de Avaliação de Fornecedores](/docs/modules/administrative/evaluation-forms)**
 e atribuídos a este fornecedor. Diferente da tela de Arquivos, a listagem
 sempre traz o histórico completo — pendentes, em preenchimento, enviados,
 aprovados, rejeitados etc. — não só os pendentes.

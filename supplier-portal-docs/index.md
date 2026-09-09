@@ -1,7 +1,7 @@
 ---
 title: Portal do Fornecedor
 sidebar_label: Visão geral
-slug: /supplier-portal
+slug: /
 sidebar_position: 1
 ---
 
@@ -9,13 +9,13 @@ sidebar_position: 1
 
 O Portal do Fornecedor é a aplicação web separada do KEMIS ERP em que o
 **fornecedor** — a empresa cadastrada em
-**[Administrativo &gt; Fornecedores](../administrative/vendors/index.md)** por um
+**[Administrativo &gt; Fornecedores](/docs/modules/administrative/vendors)** por um
 cliente do KEMIS ERP — faz login com sua própria conta para acompanhar e
 resolver, ele mesmo, as pendências que esse cliente configurou. É a
 "outra ponta" do controle de conformidade documental: o que o cliente
-define em **[Configurações](../administrative/settings.md)** (categorias,
+define em **[Configurações](/docs/modules/administrative/settings)** (categorias,
 classificações e regras de arquivo) e em
-**[Formulários de Avaliação de Fornecedores](../administrative/evaluation-forms/index.md)**
+**[Formulários de Avaliação de Fornecedores](/docs/modules/administrative/evaluation-forms)**
 aparece aqui como documentos a enviar, formulários a responder e
 documentos a assinar.
 
@@ -26,10 +26,17 @@ os clientes vinculados, com o nome do cliente em cada linha.
 
 ## Como acessar
 
-O acesso é feito por uma URL própria do portal (diferente da URL do ERP),
-com login e senha do fornecedor. Quem ainda não tem conta pode se cadastrar
-diretamente pela tela de login — veja
-**[Login e primeiro acesso](./login.md)**.
+O Portal do Fornecedor está hospedado em **https://supplier.kemis.app/** —
+uma URL própria, separada da URL do ERP. Quem já tem conta entra ali com
+email e senha (veja **[Login](./login.md)**).
+
+Quem ainda não tem conta deve se cadastrar antes de tudo: o **cadastro é
+gratuito** e vale a pena fazer assim que possível, porque é a partir dele
+que o fornecedor passa a acompanhar, num só lugar, os documentos, os
+formulários de avaliação e as assinaturas pendentes de todos os clientes
+do KEMIS ERP para os quais presta serviço. O registro é feito direto em
+**https://supplier.kemis.app/register** — veja o passo a passo completo em
+**[Registro](./registro.md)**.
 
 ## Navegação dentro do portal
 
@@ -49,7 +56,8 @@ e volta para a tela de login.
 
 ## Páginas desta seção
 
-- [Login e primeiro acesso](./login.md)
+- [Login](./login.md)
+- [Registro](./registro.md)
 - [Painel](./dashboard.md)
 - [Clientes](./clientes.md)
 - [Arquivos](./arquivos.md)

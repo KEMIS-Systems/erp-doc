@@ -29,6 +29,9 @@ Esta reescrita está sendo publicada por módulo. Hoje cobre **Administrativo**,
 demais módulos do sistema entram em rodadas seguintes.
 
 Além dos módulos do ERP, o manual também cobre o
-**[Portal do Fornecedor](/docs/supplier-portal)** — a aplicação separada em
-que os fornecedores dos clientes fazem login para enviar documentos,
-responder formulários de avaliação e assinar documentos.
+**[Portal do Fornecedor](/supplier-portal)**, hospedado em
+**https://supplier.kemis.app/** — a aplicação separada em que os
+fornecedores dos clientes fazem login para enviar documentos, responder
+formulários de avaliação e assinar documentos. O cadastro é gratuito
+(**https://supplier.kemis.app/register**) e vale a pena todo fornecedor
+que ainda não tem conta se registrar.

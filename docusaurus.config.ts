@@ -51,6 +51,23 @@ const config: Config = {
     ],
   ],
 
+  plugins: [
+    // Instância de docs separada para o Portal do Fornecedor - aplicação
+    // própria (fora do ERP), então fica fora do manual do ERP: conteúdo em
+    // supplier-portal-docs/, rotas em /supplier-portal/..., acessada só
+    // pelo link de topo "Portal do Fornecedor", nunca pelo sidebar do
+    // Manual ERP.
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'supplierPortal',
+        path: 'supplier-portal-docs',
+        routeBasePath: 'supplier-portal',
+        sidebarPath: './sidebarsSupplierPortal.ts',
+      },
+    ],
+  ],
+
   themeConfig: {
     image: 'img/logo.svg',
     colorMode: {
@@ -67,7 +84,14 @@ const config: Config = {
           type: 'docSidebar',
           sidebarId: 'manualSidebar',
           position: 'left',
-          label: 'Manual',
+          label: 'Manual ERP',
+        },
+        {
+          type: 'docSidebar',
+          docsPluginId: 'supplierPortal',
+          sidebarId: 'supplierPortalSidebar',
+          position: 'left',
+          label: 'Portal do Fornecedor',
         },
         {
           href: 'https://kemis.app',
@@ -81,7 +105,10 @@ const config: Config = {
       links: [
         {
           title: 'Documentação',
-          items: [{label: 'Manual', to: '/docs/intro'}],
+          items: [
+            {label: 'Manual ERP', to: '/docs/intro'},
+            {label: 'Portal do Fornecedor', to: '/supplier-portal'},
+          ],
         },
         {
           title: 'KEMIS',

@@ -1,7 +1,7 @@
 ---
 title: Painel
-slug: /supplier-portal/dashboard
-sidebar_position: 3
+slug: /dashboard
+sidebar_position: 4
 ---
 
 # Painel

@@ -1,7 +1,7 @@
 ---
 title: Arquivos
-slug: /supplier-portal/arquivos
-sidebar_position: 5
+slug: /arquivos
+sidebar_position: 6
 ---
 
 # Arquivos
@@ -9,9 +9,9 @@ sidebar_position: 5
 Lista consolidada de todos os documentos — enviados e pendentes — que o
 fornecedor precisa manter em dia com **todos** os clientes aos quais está
 vinculado. Cada documento corresponde a uma exigência criada do lado do
-cliente, em **[Configurações](../administrative/settings.md)** (categoria de
+cliente, em **[Configurações](/docs/modules/administrative/settings)** (categoria de
 arquivo e regra de obrigatoriedade) e acompanhada no
-**[Gerenciador de arquivos](../administrative/file-manager.md)** do ERP.
+**[Gerenciador de arquivos](/docs/modules/administrative/file-manager)** do ERP.
 
 ## Indicadores
 

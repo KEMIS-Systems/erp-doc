@@ -1,7 +1,7 @@
 ---
 title: Clientes
-slug: /supplier-portal/clientes
-sidebar_position: 4
+slug: /clientes
+sidebar_position: 5
 ---
 
 # Clientes
