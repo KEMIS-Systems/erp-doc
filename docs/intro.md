@@ -27,3 +27,8 @@ manual. Dentro de cada seção:
 Esta reescrita está sendo publicada por módulo. Hoje cobre **Administrativo**,
 **Recursos Humanos**, **Gestão de Treinamentos** e **Saúde Ocupacional** — os
 demais módulos do sistema entram em rodadas seguintes.
+
+Além dos módulos do ERP, o manual também cobre o
+**[Portal do Fornecedor](/docs/supplier-portal)** — a aplicação separada em
+que os fornecedores dos clientes fazem login para enviar documentos,
+responder formulários de avaliação e assinar documentos.

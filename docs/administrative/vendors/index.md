@@ -24,6 +24,10 @@ fornecedor.
 Como em Clientes, ao informar o CNPJ o sistema busca automaticamente os
 dados na Receita Federal, e ao informar o CEP busca o endereço.
 
+O próprio fornecedor acompanha e resolve essas pendências (envio de
+documentos, resposta a formulários, assinaturas) fazendo login em uma
+aplicação separada, o **[Portal do Fornecedor](../../supplier-portal/index.md)**.
+
 ## Formulário
 
 | Campo | Obrigatório | Descrição |
