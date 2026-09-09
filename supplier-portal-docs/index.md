@@ -24,6 +24,9 @@ cadastro — por isso várias telas do portal (Painel, Clientes, Arquivos,
 Formulários, Assinaturas) sempre mostram os dados consolidados de **todos**
 os clientes vinculados, com o nome do cliente em cada linha.
 
+Assista a um vídeo de apresentação do Portal do Fornecedor em
+**[youtube.com/watch?v=9T6z5wjkb0o](https://www.youtube.com/watch?v=9T6z5wjkb0o)**.
+
 ## Como acessar
 
 O Portal do Fornecedor está hospedado em **https://supplier.kemis.app/** —
